@@ -1,0 +1,77 @@
+{
+  "common": {
+    "appName": "Faith Living Church",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "navigation": {
+    "home": "Home",
+    "live": "Live",
+    "give": "Give",
+    "connect": "Connect",
+    "more": "More",
+    "feed": "Feed",
+    "media": "Media",
+    "about": "About"
+  },
+  "home": {
+    "welcome": "Welcome Home",
+    "subtitle": "A community of faith, hope, and love",
+    "liveNow": "🔴 LIVE NOW",
+    "joinUs": "Join us for worship"
+  },
+  "live": {
+    "title": "Live Service",
+    "sermonNotes": "Sermon Notes",
+    "notesPlaceholder": "Type your notes here...",
+    "downloadNotes": "Download Notes",
+    "savedLocally": "Your notes are saved locally on your device"
+  },
+  "give": {
+    "title": "Give",
+    "subtitle": "Support our mission",
+    "oneTime": "One-Time",
+    "recurring": "Recurring",
+    "amount": "Amount",
+    "customAmount": "Custom Amount",
+    "secureGiving": "Secure giving powered by our payment processor"
+  },
+  "connect": {
+    "title": "Connect",
+    "subtitle": "We'd love to meet you",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "howDidYouHear": "How did you hear about us?",
+    "prayerRequest": "Prayer Request",
+    "submitConnection": "Submit"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "Our Mission",
+    "serviceTimes": "Service Times",
+    "location": "Location",
+    "staff": "Our Staff"
+  },
+  "staff": {
+    "login": "Staff Portal",
+    "signIn": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "dashboard": "Dashboard",
+    "connections": "Connections",
+    "prayerRequests": "Prayer Requests",
+    "mediaQueue": "Media Queue",
+    "sendLiveAlert": "Send Live Service Push Alert"
+  }
+}
+

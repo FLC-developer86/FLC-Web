@@ -1,0 +1,77 @@
+{
+  "common": {
+    "appName": "Iglesia Fe Viviente",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "live": "En Vivo",
+    "give": "Dar",
+    "connect": "Conectar",
+    "more": "Más",
+    "feed": "Noticias",
+    "media": "Medios",
+    "about": "Nosotros"
+  },
+  "home": {
+    "welcome": "Bienvenido a Casa",
+    "subtitle": "Una comunidad de fe, esperanza y amor",
+    "liveNow": "🔴 EN VIVO",
+    "joinUs": "Únete a nosotros para adorar"
+  },
+  "live": {
+    "title": "Servicio en Vivo",
+    "sermonNotes": "Notas del Sermón",
+    "notesPlaceholder": "Escribe tus notas aquí...",
+    "downloadNotes": "Descargar Notas",
+    "savedLocally": "Tus notas se guardan localmente en tu dispositivo"
+  },
+  "give": {
+    "title": "Dar",
+    "subtitle": "Apoya nuestra misión",
+    "oneTime": "Una Vez",
+    "recurring": "Recurrente",
+    "amount": "Cantidad",
+    "customAmount": "Cantidad Personalizada",
+    "secureGiving": "Donaciones seguras a través de nuestro procesador de pagos"
+  },
+  "connect": {
+    "title": "Conectar",
+    "subtitle": "Nos encantaría conocerte",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "howDidYouHear": "¿Cómo te enteraste de nosotros?",
+    "prayerRequest": "Petición de Oración",
+    "submitConnection": "Enviar"
+  },
+  "about": {
+    "title": "Nosotros",
+    "mission": "Nuestra Misión",
+    "serviceTimes": "Horarios de Servicio",
+    "location": "Ubicación",
+    "staff": "Nuestro Equipo"
+  },
+  "staff": {
+    "login": "Portal de Personal",
+    "signIn": "Iniciar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "dashboard": "Panel de Control",
+    "connections": "Conexiones",
+    "prayerRequests": "Peticiones de Oración",
+    "mediaQueue": "Cola de Medios",
+    "sendLiveAlert": "Enviar Alerta de Servicio en Vivo"
+  }
+}
+
