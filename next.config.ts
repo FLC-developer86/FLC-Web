@@ -1,12 +1,10 @@
 import type { NextConfig } from 'next'
+import createNextIntlPlugin from 'next-intl/plugin'
+
+const withNextIntl = createNextIntlPlugin('./i18n/request.ts')
 
 const nextConfig: NextConfig = {
-  // Enable static export for GitHub Pages
-  output: 'export',
-  
-  // Disable image optimization for static export
   images: {
-    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -18,9 +16,6 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  
-  // Trailing slashes for static hosting compatibility
-  trailingSlash: true,
 }
 
-export default nextConfig
+export default withNextIntl(nextConfig)
